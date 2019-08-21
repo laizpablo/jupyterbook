@@ -4,8 +4,8 @@ prev_page:
   url: 
   title: ''
 next_page:
-  url: /LICENSE.html
-  title: 'License'
+  url: /notes.html
+  title: 'Notes'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
 # Books with Jupyter and Jekyll

@@ -29,6 +29,8 @@
 # ===== NEW SECTION ========================================
 - title: Intro
   url: intro
+- title: Notes
+  url: notes
 - title: License
   url: LICENSE
 

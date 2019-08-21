@@ -3,10 +3,10 @@ redirect_from:
   - "license"
 title: 'License'
 prev_page:
-  url: /intro.html
-  title: 'Intro'
+  url: /notes.html
+  title: 'Notes'
 next_page:
-  url: /\features\features.html
+  url: /features/features.html
   title: 'Features'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---

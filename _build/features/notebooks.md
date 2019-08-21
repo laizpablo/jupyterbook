@@ -2,10 +2,10 @@
 interact_link: content/D:\Pablo\Documents\UB\Docencia\Curs 19-20\Algorismica\jupyterbook\content\features/notebooks.ipynb
 kernel_name: python3
 has_widgets: false
-title: 'Jupyter notebooks'
+title: 'Notebooks'
 prev_page:
   url: /features/markdown.html
-  title: 'Markdown files'
+  title: 'Markdown'
 next_page:
   url: 
   title: ''
